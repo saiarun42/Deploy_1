@@ -1,4 +1,3 @@
-import React from "react";
 import "./Overviewcard.css";
 
 export interface OverviewCardProps {
@@ -12,8 +11,6 @@ export interface OverviewCardProps {
 }
 
 export default function Overviewcard({
-  id,
-  orderId,
   title,
   value,
   change,

@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./Sidebarnew.css";
 import sidebar_1 from "../../assets/sidebar_1.svg";
 import sidebar_2 from "../../assets/sidebar_2.svg";

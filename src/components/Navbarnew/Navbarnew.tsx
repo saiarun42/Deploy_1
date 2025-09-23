@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./Navbarnew.css";
 
 import Frame13 from "../../assets/Frame 13.svg";

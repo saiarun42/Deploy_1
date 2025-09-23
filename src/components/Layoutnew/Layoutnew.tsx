@@ -1,4 +1,4 @@
-import React from "react";
+
 import Navbarnew from "../Navbarnew/Navbarnew";
 import Sidebarnew from "../Sidebarnew/Sidebarnew";
 import "./Layoutnew.css";
